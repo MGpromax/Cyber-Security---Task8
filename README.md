@@ -52,10 +52,10 @@ Metrics to Capture (recommended)
 - Protocol/server used; kill‑switch setting and test outcome
 
 How to reproduce
-- Follow `task8/procedure.md` on your system. Add redacted screenshots (no sensitive info) to a `screenshots/` folder.
+- Follow `procedure.md` on your system. Add redacted screenshots (no sensitive info) to a `screenshots/` folder.
 
 Submission
-- Fill `task8/report.md` with your actual results and add at least one connection status screenshot.
+- Fill `report.md` with your actual results and add at least one connection status screenshot.
 - Commit/push to a new GitHub repo and submit the link per your program’s instructions.
 
 Legal & Ethical
